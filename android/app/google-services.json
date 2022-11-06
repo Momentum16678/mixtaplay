@@ -1,0 +1,178 @@
+{
+  "project_info": {
+    "project_number": "760010796223",
+    "project_id": "side-hustle-c8abb",
+    "storage_bucket": "side-hustle-c8abb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760010796223:android:dccc8af293c6d8cfe76a0a",
+        "android_client_info": {
+          "package_name": "com.example.mixtaplay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "760010796223-ntquho29ic6j9qih9fv0hjincvnir829.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVYnL70ndS8J0EAbCiqzbND2JdfDoDLIc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "760010796223-ntquho29ic6j9qih9fv0hjincvnir829.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "760010796223-cclep7q4krnudvogikk9j5r3bb7sm9cq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.sideHustleWeekOne"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760010796223:android:98003b931da3dbf6e76a0a",
+        "android_client_info": {
+          "package_name": "com.example.music_player"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "760010796223-fqdr7atmvto5f9eddfhf3en8sb79fs1b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.music_player",
+            "certificate_hash": "c69cdd45aed80cf636bc226caab5af29cd560fc5"
+          }
+        },
+        {
+          "client_id": "760010796223-ntquho29ic6j9qih9fv0hjincvnir829.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVYnL70ndS8J0EAbCiqzbND2JdfDoDLIc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "760010796223-ntquho29ic6j9qih9fv0hjincvnir829.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "760010796223-cclep7q4krnudvogikk9j5r3bb7sm9cq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.sideHustleWeekOne"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760010796223:android:67df1c5c658682ede76a0a",
+        "android_client_info": {
+          "package_name": "com.example.side_hustle_week_one"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "760010796223-ik3b9ef1omq6ih5gd61lhg34sp34m919.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.side_hustle_week_one",
+            "certificate_hash": "c69cdd45aed80cf636bc226caab5af29cd560fc5"
+          }
+        },
+        {
+          "client_id": "760010796223-ntquho29ic6j9qih9fv0hjincvnir829.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVYnL70ndS8J0EAbCiqzbND2JdfDoDLIc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "760010796223-ntquho29ic6j9qih9fv0hjincvnir829.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "760010796223-cclep7q4krnudvogikk9j5r3bb7sm9cq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.sideHustleWeekOne"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760010796223:android:28cabadc8b14cabee76a0a",
+        "android_client_info": {
+          "package_name": "com.example.todoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "760010796223-sjsavcjkna4n9rmvi2lsf3eck8rc8ev2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.todoapp",
+            "certificate_hash": "c69cdd45aed80cf636bc226caab5af29cd560fc5"
+          }
+        },
+        {
+          "client_id": "760010796223-ntquho29ic6j9qih9fv0hjincvnir829.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVYnL70ndS8J0EAbCiqzbND2JdfDoDLIc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "760010796223-ntquho29ic6j9qih9fv0hjincvnir829.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "760010796223-cclep7q4krnudvogikk9j5r3bb7sm9cq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.sideHustleWeekOne"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
